@@ -1,4 +1,5 @@
-MAINTAIN EYE CONTACT is a gamejam game I created with a team during the 2014 Global Game Jam.
+MAINTAIN EYE CONTACT is a gamejam game I created with a team during the 2014 Global Game Jam. It was written in c#
+and we used the Unity engine
 
 https://www.youtube.com/watch?v=ChFfpXtrZyI
 
@@ -10,4 +11,4 @@ random events will occur that either distract the player in some way shape or fo
 
 I did almost all of the game design as well as almost all of the coding for the events. 
 
-I've included my favorite piece of code, the one that procedurall generates goats.
+I've included my favorite piece of code, the one that procedurally generates goats.
