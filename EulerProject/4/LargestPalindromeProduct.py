@@ -26,7 +26,7 @@ def findLargestTripleDigitPalindrome():
 		if not palindromeAttempt == -1 and palindromeAttempt > biggestPalindrome:
 			biggestPalindrome = palindromeAttempt
 		numToTry-=1
-	return biggestPalindrome
+	return biggestPalindrome 
 
 #def findLargest
 
