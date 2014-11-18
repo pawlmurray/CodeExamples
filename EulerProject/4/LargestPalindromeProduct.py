@@ -17,7 +17,7 @@ def findLargestPalindromeAndOtherFactor(num1):
         num2-=1
     return -1
 
-    #finds the largest triple digit palindrome
+#finds the largest triple digit palindrome
 def findLargestTripleDigitPalindrome():
     numToTry = 999
     biggestPalindrome = -1
@@ -28,6 +28,5 @@ def findLargestTripleDigitPalindrome():
         numToTry-=1
     return biggestPalindrome  
 
-#def findLargest
 
 print findLargestTripleDigitPalindrome()
