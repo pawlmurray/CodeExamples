@@ -5,6 +5,8 @@
 #as prime. Once we discover a prime we continually multiply that number
 #by increasing multiples (starting at a multiple of itself), marking those
 #products as not prime. 
+
+#general concept came from: http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 def sieveOfEratostehnes(n):
     primes = [True] * (n + 1)
     primes[0] = False
