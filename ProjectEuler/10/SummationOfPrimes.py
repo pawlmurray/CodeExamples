@@ -31,4 +31,4 @@ def calculateSummationOfPrimesLessThenN(n):
     return currentSum
 
 
-print calculateSummationOfPrimesLessThenN(2000000)
+print calculateSummationOfPrimesLessThenN(10000000)
